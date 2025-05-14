@@ -1,0 +1,11 @@
+# Requirements for Python To-Do List CLI
+# Python version
+python>=3.6
+
+# No external packages required
+# Standard libraries used:
+# - argparse
+# - json
+# - os
+# - datetime
+# - typing
